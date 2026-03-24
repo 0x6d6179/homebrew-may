@@ -2,8 +2,8 @@ class May < Formula
   desc "personal productivity toolkit"
   homepage "https://github.com/0x6d6179/may"
   url "https://github.com/0x6d6179/may.git",
-    tag:      "v0.1.0",
-    revision: "5efe71c3c98565ae143c757aad98e339cd2d6438"
+    tag:      "v0.1.2",
+    revision: "4791b19ac8774ccce14289f0a391ed8a27b31ed0"
   license "MIT"
 
   head "https://github.com/0x6d6179/may.git", branch: "main"
