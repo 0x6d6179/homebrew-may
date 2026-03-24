@@ -1,7 +1,7 @@
 class May < Formula
   desc "personal productivity toolkit"
   homepage "https://github.com/0x6d6179/may"
-  url "https://github.com/0x6d6179/may/archive/refs/tags/v#{version}.tar.gz"
+  url "https://github.com/0x6d6179/may/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
   license "MIT"
 
