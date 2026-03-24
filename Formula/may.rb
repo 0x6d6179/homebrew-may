@@ -3,7 +3,7 @@ class May < Formula
   homepage "https://github.com/0x6d6179/may"
   url "https://github.com/0x6d6179/may.git",
     tag:      "v0.1.6",
-    revision: "cb660046de7d3ceedbab26a4a04d459bac77ad37"
+    revision: "c55647e529820421d1c9e031f2534c062b3eae46"
   license "MIT"
 
   head "https://github.com/0x6d6179/may.git", branch: "main"
